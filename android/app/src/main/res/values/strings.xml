@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">elbangularappcapacitor</string>
+    <string name="title_activity_main">elbangularappcapacitor</string>
+    <string name="package_name">com.venkata.angularcapacitor</string>
+    <string name="custom_url_scheme">com.venkata.angularcapacitor</string>
+</resources>

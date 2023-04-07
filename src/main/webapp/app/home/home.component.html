@@ -4,8 +4,10 @@
   </div>
 
   <div class="col-md-9">
-    <h1 class="display-4"><span>Welcome, eTechlog!</span></h1>
+    <h1 class="display-4"><span>Welcome, Venkata!</span></h1>
 
     <p class="lead">This is your homepage</p>
+    <h2>Network Status: <b>{{ networkStatus.connected ? "Online" : "Offline" }}</b></h2>
+    <h2>Battery Status: <b>{{ batteryInformation.isCharging ? "Charging" : "Not Charging" }}</b></h2>
   </div>
 </div>
